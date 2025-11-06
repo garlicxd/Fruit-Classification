@@ -8,6 +8,8 @@ Project for Deep Learning for Image Recognition.
 1. Initialize the dataset using `kaggle.json` in the first block.
 2. Set Parameters in the second block.
 
+**To save progress to GitHub, simply `File > Save`**.
+
 ## TODO
 - [ ] **Additional Visualization**
     - [x] Loss and Accuracy Diagram
