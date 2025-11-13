@@ -13,7 +13,7 @@ Project for Deep Learning for Image Recognition.
 - [ ] **Additional Visualization**
     - [x] Loss and Accuracy Diagram
     - [x] Confusion Matrix
-    - [ ] Data distribution bar chart
+    - [x] Data distribution bar chart
     - [ ] Augmentation check chart
     - [ ] Worst classifications
     - [ ] Saliency Maps / Class Activation Maps (Grad-CAM)
@@ -21,7 +21,7 @@ Project for Deep Learning for Image Recognition.
 - [ ] **Automation**
     - [ ] Automate all parameters and their combinations with images. Save the plots and data outputs
 - [ ] **Experiments**
-    - [ ] Test with image augmentation - compare ours, theirs, and none
+    - [ ] Test with image augmentation - compare ours ✓, theirs, and none
     - [ ] Fine-Tune ResNet - unfreeze more than one layer
     - [ ] Compare Optimizers
     - [ ] Try different model architectures like MobileNet or EfficientNet
