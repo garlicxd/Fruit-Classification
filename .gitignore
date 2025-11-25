@@ -1,1 +1,5 @@
 kaggle.json
+.venv
+split_ttv_dataset_type_of_plants
+filtered_data
+class_mapping.json
