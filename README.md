@@ -22,22 +22,16 @@ Project for Deep Learning for Image Recognition.
 **To save progress to GitHub, simply `File > Save`**.
 
 ## TODO
-- [ ] **Additional Visualization**
+- [X] **Additional Visualization**
     - [x] Loss and Accuracy Diagram
     - [x] Confusion Matrix
     - [x] Data distribution bar chart
-    - [ ] Augmentation check chart
-    - [ ] Worst classifications
-    - [ ] Saliency Maps / Class Activation Maps (Grad-CAM)
-    - [ ] Print out all the parameters alongside the images
+    - [X] Print out all the parameters alongside the images
 - [X] **Automation**
     - [X] Automate all parameters and their combinations with images. Save the plots and data outputs
 - [ ] **Experiments**
-    - [ ] Test with image augmentation - compare ours ✓, theirs, and none
+    - [x] Test with image augmentation - compare ours ✓, theirs, and none
+    - [x] Patience for training - stopping after no improvement (early stopping implemented)
     - [ ] Fine-Tune ResNet - unfreeze more than one layer
-    - [ ] Compare Optimizers
+    - [x] Compare Optimizers
     - [ ] Try different model architectures like MobileNet or EfficientNet
-    - [ ] Custom classifier head - add multiple layers on top
-    - [ ] Label smoothing: `criterion = nn.CrossEntropyLoss(label_smoothing=0.1)`
-- [ ] **Paper**
-    - [ ] Add to the paper that the dataset is well balanced
