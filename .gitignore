@@ -1,5 +1,9 @@
 kaggle.json
 .venv
+.venvwin
+.vscode
 split_ttv_dataset_type_of_plants
 filtered_data
 class_mapping.json
+plants-type-datasets.zip
+experiment_*

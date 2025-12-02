@@ -1,0 +1,11 @@
+# Requirements generated from imports in Fruit_Classification_Project.ipynb
+# Excluding Google Colab-specific packages
+
+numpy
+matplotlib
+torch
+torchvision
+tqdm
+scikit-learn
+kaggle
+ipykernel
