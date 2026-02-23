@@ -10,22 +10,20 @@ Project for Deep Learning for Image Recognition.
 **To save progress to GitHub, simply `File > Save`**.
 
 ## TODO
-- [ ] **Additional Visualization**
+- [X] **Additional Visualization**
     - [x] Loss and Accuracy Diagram
     - [x] Confusion Matrix
     - [x] Data distribution bar chart
-    - [ ] Augmentation check chart
-    - [ ] Worst classifications
-    - [ ] Saliency Maps / Class Activation Maps (Grad-CAM)
-    - [ ] Print out all the parameters alongside the images
-- [ ] **Automation**
-    - [ ] Automate all parameters and their combinations with images. Save the plots and data outputs
-- [ ] **Experiments**
-    - [ ] Test with image augmentation - compare ours ✓, theirs, and none
-    - [ ] Fine-Tune ResNet - unfreeze more than one layer
-    - [ ] Compare Optimizers
-    - [ ] Try different model architectures like MobileNet or EfficientNet
-    - [ ] Custom classifier head - add multiple layers on top
-    - [ ] Label smoothing: `criterion = nn.CrossEntropyLoss(label_smoothing=0.1)`
-- [ ] **Paper**
-    - [ ] Add to the paper that the dataset is well balanced
+    - [X] Augmentation check chart
+    - [X] Worst classifications
+    - [X] Saliency Maps / Class Activation Maps (Grad-CAM)
+    - [X] Print out all the parameters alongside the images
+- [X] **Automation**
+    - [X] Automate all parameters and their combinations with images. Save the plots and data outputs
+- [X] **Experiments**
+    - [X] Test with image augmentation - compare ours ✓, theirs, and none
+    - [X] Fine-Tune ResNet - unfreeze more than one layer
+    - [X] Compare Optimizers
+    ~~Try different model architectures like MobileNet or EfficientNet~~
+    - [X] Custom classifier head - add multiple layers on top
+    - [X] Label smoothing: `criterion = nn.CrossEntropyLoss(label_smoothing=0.1)`
